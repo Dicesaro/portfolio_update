@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 24.1.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Capa_1" xmlns="http://www.w3.org/2000/svg"
+	xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	viewBox="0 0 564 595.28" style="enable-background:new 0 0 564 595.28;" xml:space="preserve">
+<style type="text/css">
+	.st0{clip-path:url(#mascara_1_);fill:url(#color_1_);}
+	.st1{fill-rule:evenodd;clip-rule:evenodd;fill:#040007;}
+</style>
+<g>
+	<defs>
+		<path id="mascara" d="M134.99,401.58c-79.48-79.52-78.29-207.17,2.7-285.27c81.07-78.17,211.4-77.08,291.1,2.43
+			c78.81,78.61,78.6,204.45,0.22,282.84L282,546.95L134.99,401.58z"/>
+	</defs>
+	<clipPath id="mascara_1_">
+		<use xlink:href="#mascara"  style="overflow:visible;"/>
+	</clipPath>
+	<linearGradient id="color_1_" gradientUnits="userSpaceOnUse" x1="76.1603" y1="292.5472" x2="487.8394" y2="292.5472">
+		<stop  offset="0" style="stop-color:#FBBB00"/>
+		<stop  offset="1" style="stop-color:#EF793A"/>
+	</linearGradient>
+	<rect id="color" x="55.51" y="38.15" class="st0" width="452.08" height="508.8"/>
+</g>
+<path class="st1" d="M178.48,370.59l78.91-29.55l-0.02-89.7c6.32,2.93,36.22,18.68,44.06,22.98l-0.25,67.3l83.47,29.06
+	L178.48,370.59z M257.39,220.26l43.75,20.18l0.19-107.31l-43.83,20.04L257.39,220.26z M178.78,190.69l-0.3,173.02
+	c11.72-4.07,34.03-12.54,44.39-16.35l-0.37-174.19L178.78,190.69z M340.87,346.55c7.16,3.61,38.32,15.9,43.78,17.26l-0.32-172.77
+	l-43.63-18.33C340.96,206.57,341.04,329.76,340.87,346.55z"/>
+</svg>
